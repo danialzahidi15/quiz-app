@@ -1,2 +1,2 @@
-# quizApp
-FlorinPop Quiz App
+# quiz-app
+Florin Pop Quiz App
